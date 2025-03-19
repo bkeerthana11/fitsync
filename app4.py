@@ -3,7 +3,7 @@ import cohere
 import time
 
 # 🔒 Use your Cohere API Key
-COHERE_API_KEY = "H7b9NQ0L2s7leTqrLqdDIkBPm8zh6qyO5z42bWsT"
+COHERE_API_KEY = "type your api key here"
 
 # Initialize Cohere client
 co = cohere.Client(COHERE_API_KEY)
